@@ -1,0 +1,32 @@
+import turtle
+Ana = turtle.Pen()
+Ana.shape("turtle")
+Ana.color("cyan")
+Ana.width(5)
+Ana.left(90)
+Ana.circle(100)
+Ana.up
+Ana.forward(100)
+Ana.down
+Ana.circle(100)
+Ana.forward(100)
+Ana.left(90)
+Ana.circle(100)
+Ana.up
+Ana.forward(100)
+Ana.down
+Ana.circle(100)
+Ana.forward(100)
+Ana.left(90)
+Ana.circle(100)
+Ana.up
+Ana.forward(100)
+Ana.down
+Ana.circle(100)
+Ana.forward(100)
+Ana.left(90)
+Ana.circle(100)
+Ana.up
+Ana.forward(100)
+Ana.down
+Ana.circle(100)
