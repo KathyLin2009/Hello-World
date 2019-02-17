@@ -1,0 +1,30 @@
+import turtle
+ana = turtle.Pen()
+ana.shape("turtle")
+ana.color("cyan")
+ana.width(5)
+ana.speed(5)
+for i in range(4):
+    ana.forward(100)
+    ana.left(90)
+ana.reset()
+ana.color("cyan")
+ana.width(5)
+ana.speed(0)
+for i in range(8):
+    ana.forward(200)
+    ana.left(225)
+ana.reset()
+ana.color("cyan")
+ana.width(5)
+ana.speed(5)
+for i in range(20):
+    ana.forward(10 * i)
+    ana.left(90)
+ana.reset()
+ana.color("cyan")
+ana.width(5)
+ana.speed(0)
+for i in range(100):
+    ana.circle(i * 3)
+    ana.left(10)
