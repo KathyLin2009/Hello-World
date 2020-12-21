@@ -10,4 +10,5 @@ def encrypt(cleartext):
     return cyphertext
 cleartext = input("cleartext")
 cleartext = cleartext.lower()
+
 print(encrypt(cleartext))
